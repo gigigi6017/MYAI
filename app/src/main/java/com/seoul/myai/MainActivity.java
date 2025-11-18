@@ -91,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
                 item.setName(name);
                 list.add(item);
                 geminiAdapter.setList(list);
